@@ -22,9 +22,8 @@ os.system("figlet  Ddos--Attack")
 print
 print "Author   : Emre Koybasi"
 print "github   : https://github.com/emrekybs"
-print "Instagram: https://www.instagram.com/emrekybs98/"
 print
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
